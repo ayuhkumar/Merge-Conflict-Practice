@@ -1,8 +1,4 @@
 shopping list-
 1. Milk
 2. bread
-3. Butter
-4. cheese
-5. egg
-6.yolkojo
-
+3. cream
