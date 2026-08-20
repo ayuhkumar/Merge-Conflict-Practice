@@ -3,5 +3,3 @@ shopping list-
 2. bread
 3. Butter
 4. cheese
-5. egg
-6.yolk
